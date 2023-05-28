@@ -5,24 +5,24 @@ can be challenging. This paper investigates the performance of different GAN arc
 
 ## Types of GANs picked for this reasearch work
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here" width="350">
 </p>
 
 ## The Parameters
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here" width="350">
 </p>
 The range of hyper-parameters used to do the evaluation and analysis. “U” denotes
 uniform sampling and “L” denotes sampling on a log scale. (a,b) indicates a range of parameters.
 
 ## Obtained Results
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here" width="350">
 </p>
 
 ## Data
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here" width="350">
 </p>
 
 ## The codes/notebooks
