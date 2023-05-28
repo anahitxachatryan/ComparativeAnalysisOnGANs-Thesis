@@ -6,6 +6,12 @@ can be challenging. This paper investigates the performance of different GAN arc
 ## The Parameters
 <img src = "">
 
+## Obtained Results
+<img src="">
+
+## Data
+<img src = "">
+
 ## The codes/notebooks
 The codes are in the **codes** folder where you can find all experiments done.
 
@@ -13,5 +19,5 @@ The codes are in the **codes** folder where you can find all experiments done.
 The results are in **result** folders where you can also find all the saved models.
 
 ## Paper
-In the paper you can find detailed explanaition of each Generative Adversaarial Network model, their comparative analysis and the obtained results and conclusions.
+In the paper you can find detailed explanaition of each Generative Adversaarial Network model, their **fair** comparative parametric analysis and the obtained results and conclusions.
 
