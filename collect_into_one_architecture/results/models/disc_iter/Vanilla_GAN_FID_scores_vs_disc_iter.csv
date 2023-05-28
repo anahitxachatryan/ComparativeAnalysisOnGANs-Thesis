@@ -1,0 +1,4 @@
+,fid_score,model_name,disc_iter
+0,97.71117610086895,Vanilla_GAN,1
+1,95.508375863032,Vanilla_GAN,2
+2,101.43798846510998,Vanilla_GAN,5

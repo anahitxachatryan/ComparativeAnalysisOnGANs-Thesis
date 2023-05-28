@@ -1,0 +1,5 @@
+,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,model_name,n_noise,batch_size,n_critic,max_epochs,clip_value,best_lr,best_beta,penalty
+0,0,0,0,0,WGAN,100,128,1,35,0.01,0.001,0.9,
+1,1,1,1,1,WGAN_GP,100,128,2,33,,0.001,0.9,10.0
+2,2,2,2,2,LSGAN,100,128,1,20,,0.001,0.9,
+3,3,3,3,3,Vanilla_GAN,100,128,2,20,,0.001,0.9,
