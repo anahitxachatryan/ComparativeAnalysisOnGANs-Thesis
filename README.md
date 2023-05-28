@@ -26,7 +26,7 @@ uniform sampling and “L” denotes sampling on a log scale. (a,b) indicates a 
 </p>
 
 ## The codes/notebooks
-The codes are in the **codes** folder where you can find all experiments done.
+All the .ipynb files are available on "collect_into_one_architecture" folder
 
 ## The Results
 The results are in **result** folders where you can also find all the saved models.
