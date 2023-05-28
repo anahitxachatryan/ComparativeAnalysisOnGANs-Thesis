@@ -4,18 +4,26 @@ The performance of GANs is highly dependent on their hyperparameters and archite
 can be challenging. This paper investigates the performance of different GAN architectures and their corresponding hyperparameters through a comprehensive comparative parametric analysis. We evaluate the performance of GANs using multiple quantitative metrics such as Fréchet Inception Distance (FID), F1 score, precision and recall. This study comprehensively evaluates GANs and their parameters, enabling researchers and practitioners to make informed decisions when using GANs for synthetic data generation.
 
 ## Types of GANs picked for this reasearch work
-<img src = "", width=300, height=300/>
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+</p>
 
 ## The Parameters
-<img src = "", width=300, height=300>
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+</p>
 The range of hyper-parameters used to do the evaluation and analysis. “U” denotes
 uniform sampling and “L” denotes sampling on a log scale. (a,b) indicates a range of parameters.
 
 ## Obtained Results
-<img src="", width=300, height=300>
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+</p>
 
 ## Data
-<img src = "", width=300, height=300>
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+</p>
 
 ## The codes/notebooks
 The codes are in the **codes** folder where you can find all experiments done.
