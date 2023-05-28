@@ -20,4 +20,24 @@ The results are in **result** folders where you can also find all the saved mode
 
 ## Paper
 In the paper you can find detailed explanaition of each Generative Adversaarial Network model, their **fair** comparative parametric analysis and the obtained results and conclusions.
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+	
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+	
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
 
